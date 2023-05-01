@@ -1,0 +1,8 @@
+C:\Development\WrapupDemoapp\WrapupDemo\bin\Debug\WrapupDemo.exe.config
+C:\Development\WrapupDemoapp\WrapupDemo\bin\Debug\WrapupDemo.exe
+C:\Development\WrapupDemoapp\WrapupDemo\bin\Debug\WrapupDemo.pdb
+C:\Development\WrapupDemoapp\WrapupDemo\obj\Debug\WrapupDemo.csproj.AssemblyReference.cache
+C:\Development\WrapupDemoapp\WrapupDemo\obj\Debug\WrapupDemo.csproj.SuggestedBindingRedirects.cache
+C:\Development\WrapupDemoapp\WrapupDemo\obj\Debug\WrapupDemo.csproj.CoreCompileInputs.cache
+C:\Development\WrapupDemoapp\WrapupDemo\obj\Debug\WrapupDemo.exe
+C:\Development\WrapupDemoapp\WrapupDemo\obj\Debug\WrapupDemo.pdb
